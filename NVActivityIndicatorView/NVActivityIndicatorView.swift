@@ -355,7 +355,7 @@ public final class NVActivityIndicatorView: UIView {
     /// Default message displayed in UI blocker. Default value is nil.
     public static var DEFAULT_BLOCKER_MESSAGE: String?
 
-    /// Default message displayed in UI blocker. Default value is nil.
+    /// Default message spacing to activity indicator view in UI blocker. Default value is 8.
     public static var DEFAULT_BLOCKER_MESSAGE_SPACING = CGFloat(8.0)
 
     /// Default font of message displayed in UI blocker. Default value is bold system font, size 20.

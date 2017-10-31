@@ -38,7 +38,7 @@ public final class ActivityData {
     /// Font of message displayed under activity indicator view.
     let messageFont: UIFont
 
-    /// Spacing of message to activity indicator view.
+    /// Message spacing to activity indicator view.
     let messageSpacing: CGFloat
 
     /// Animation type.
@@ -70,7 +70,7 @@ public final class ActivityData {
      - parameter size:                 size of activity indicator view.
      - parameter message:              message displayed under activity indicator view.
      - parameter messageFont:          font of message displayed under activity indicator view.
-     - parameter messageSpacing:       spacing of message to activity indicator view.
+     - parameter messageSpacing:       message spacing to activity indicator view.
      - parameter type:                 animation type.
      - parameter color:                color of activity indicator view.
      - parameter padding:              padding of activity indicator view.
